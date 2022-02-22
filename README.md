@@ -1,7 +1,11 @@
 <div align="center">
-  <a href="https://github.com/devgalaxyUGC">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DevGalaxyUGC&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGalaxyUGC&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devgalaxyugc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgalaxyugc&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+</div>
+<div style="display: inline_block"><br>
+  <img alt="Bryan-Java" height="70" width="100"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 </div>
   
 ##
@@ -31,14 +35,6 @@ Some random facts:
 - My username (DevGalaxyUGC) is a reference to the Galaxy UGC 5340 from Hubble, captured in September 17th, my birthday! If you're interested, you can see the photo captured by Hubble in your birthday in Nasa's website.
 
 ##
-
-</div>
-<div style="display: inline_block"><br>
-  <img alt="Bryan-Java" height="70" width="100"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-</div>
-
-##
-
 <!--
 **devgalaxyUGC/DevGalaxyUGC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
