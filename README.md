@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devgalaxyugc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgalaxyugc&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devgalaxyugc&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgalaxyugc&layout=compact&langs_count=7&theme=radical"/>
 </div>
 </div>
 <div style="display: inline_block"><br>
@@ -11,12 +11,7 @@
 ##
 ### Hello There! I'm Bryan and this is my GitHub Profile!
 ### About me:
-Q: Who are you?
-
-R: I'm Bryan Santos, 21 years old, from Belo Horizonte - Brazil and a brand-new student in IT area!
-
 ##
-  
 Q: Are you currently working on something or studying?
 
 R: Recently, I have started my career in IT area, specifically in Computer Science course, and I'm improving my skills in programming! 
