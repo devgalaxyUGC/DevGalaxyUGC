@@ -1,7 +1,7 @@
 <div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devgalaxyugc&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgalaxyugc&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/devgalaxyugc">
+  <img height="180em"src="https://github-readme-stats.vercel.app/api?username=devgalaxyugc&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgalaxyugc&layout=compact&langs_count=7&theme=radical"/>
 </div>
 </div>
 <div style="display: inline_block"><br>
@@ -28,19 +28,3 @@ Some random facts:
 - I'm looking for some help and challenges that can improve my Java skills, so if you have something, feel free to share with me!
 - I believe this profile can help to improve my english skills with all the content I'm studying!
 - My username (DevGalaxyUGC) is a reference to the Galaxy UGC 5340 from Hubble, captured in September 17th, my birthday! If you're interested, you can see the photo captured by Hubble in your birthday in Nasa's website.
-
-##
-<!--
-**devgalaxyUGC/DevGalaxyUGC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
