@@ -27,4 +27,4 @@ R: Now, I'm studying Java simultaneously with my course, and looking forward oth
 Some random facts: 
 - I'm looking for some help and challenges that can improve my Java skills, so if you have something, feel free to share with me!
 - I believe this profile can help to improve my english skills with all the content I'm studying!
-- My username (DevGalaxyUGC) is a reference to the Galaxy UGC 5340 from Hubble, captured in September 17th, my birthday! If you're interested, you can see the photo captured by Hubble in your birthday in Nasa's website.
+- My username (DevGalaxyUGC) is a reference to the Galaxy UGC 5340 from Hubble, captured in September 17th, my birthday! If you're interested, you can see the photo captured by Hubble in your birthday on Nasa's website.
